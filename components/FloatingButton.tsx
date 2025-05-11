@@ -6,7 +6,7 @@ const FloatingButton = () => {
     return (
         <div className="fixed flex bottom-5 right-5 rounded-full bg-green-500 hover:bg-green-600 p-2 md:p-4 shadow-xl">
             <a
-                href="https://wa.me/918601381096?text=Thank%20you%20for%20contacting%City%Purified%20Waters%20%E2%80%93%20a%20premium%20brand%20by%20Kriplani%20Textile%20Mills.%20Our%20team%20will%20get%20in%20touch%20with%20you%20shortly.%20For%20any%20immediate%20assistance%2C%20feel%20free%20to%20reach%20out%20directly."
+                href="https://wa.me/918601381096?text=Thank%20you%20for%20contacting%20City%20Purified%20Waters.%20Our%20team%20will%20get%20in%20touch%20with%20you%20shortly.%20For%20any%20immediate%20assistance%2C%20feel%20free%20to%20reach%20out%20directly."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="h-7 md:h-11 w-7 md:w-11 text-white"

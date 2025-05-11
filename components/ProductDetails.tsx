@@ -20,7 +20,7 @@ const productDetails = [
         description:
             "Bulk purified water jars for homes and businesses. Comes with tamper-proof caps and reusable containers. Home delivery available with pickup/refill cycles.",
         tags: ["#Reusable", "#DoorstepDelivery", "#CostEffective"],
-        image: "/20l-jar.jpeg",
+        image: "/jar.webp",
     },
     {
         title: "Water Dispenser Rental",
