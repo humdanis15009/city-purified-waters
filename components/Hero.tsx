@@ -22,7 +22,7 @@ const Hero = () => {
                     {/* Text Section */}
                     <div className="w-full md:w-1/2 mb-10 md:mb-0 text-center md:text-left">
                         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 sm:mb-6">
-                            CITY PURIFIED WATER
+                            CITY PURIFIED WATERS
                         </h1>
                         <p className="text-base sm:text-lg md:text-xl mb-4 sm:mb-6 opacity-90">
                             A BRAND OF SHUDH WATER PURIFIERS

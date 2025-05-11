@@ -17,7 +17,7 @@ const Navbar = () => {
                     {/* Logo and Tagline */}
                     <div className="flex items-center">
                         <Link href="/" className="text-xl md:text-2xl font-bold text-blue-700">
-                            CITY PURIFIED WATER
+                            CITY PURIFIED WATERS
                         </Link>
                         <span className="hidden md:block text-xs text-gray-500 ml-2">
                             A BRAND OF SHUDH WATER PURIFIERS
